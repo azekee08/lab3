@@ -1,0 +1,272 @@
+{
+    "A": {
+        "B": {
+            "distance": 4,
+            "time": 5
+        },
+        "C": {
+            "distance": 2,
+            "time": 3
+        }
+    },
+    "B": {
+        "A": {
+            "distance": 4,
+            "time": 5
+        },
+        "C": {
+            "distance": 1,
+            "time": 2
+        },
+        "D": {
+            "distance": 5,
+            "time": 4
+        },
+        "F": {
+            "distance": 9,
+            "time": 10
+        }
+    },
+    "C": {
+        "A": {
+            "distance": 2,
+            "time": 3
+        },
+        "B": {
+            "distance": 1,
+            "time": 2
+        },
+        "E": {
+            "distance": 7,
+            "time": 6
+        },
+        "F": {
+            "distance": 4,
+            "time": 5
+        },
+        "H": {
+            "distance": 10,
+            "time": 12
+        }
+    },
+    "D": {
+        "B": {
+            "distance": 5,
+            "time": 4
+        },
+        "E": {
+            "distance": 2,
+            "time": 2
+        },
+        "G": {
+            "distance": 6,
+            "time": 8
+        }
+    },
+    "E": {
+        "C": {
+            "distance": 7,
+            "time": 6
+        },
+        "D": {
+            "distance": 2,
+            "time": 2
+        },
+        "F": {
+            "distance": 1,
+            "time": 1
+        },
+        "H": {
+            "distance": 3,
+            "time": 2
+        },
+        "K": {
+            "distance": 8,
+            "time": 7
+        }
+    },
+    "F": {
+        "C": {
+            "distance": 4,
+            "time": 5
+        },
+        "E": {
+            "distance": 1,
+            "time": 1
+        },
+        "H": {
+            "distance": 5,
+            "time": 4
+        },
+        "I": {
+            "distance": 8,
+            "time": 7
+        },
+        "B": {
+            "distance": 9,
+            "time": 10
+        }
+    },
+    "G": {
+        "D": {
+            "distance": 6,
+            "time": 8
+        },
+        "H": {
+            "distance": 2,
+            "time": 3
+        },
+        "J": {
+            "distance": 7,
+            "time": 6
+        },
+        "N": {
+            "distance": 6,
+            "time": 5
+        }
+    },
+    "H": {
+        "E": {
+            "distance": 3,
+            "time": 2
+        },
+        "F": {
+            "distance": 5,
+            "time": 4
+        },
+        "G": {
+            "distance": 2,
+            "time": 3
+        },
+        "I": {
+            "distance": 2,
+            "time": 3
+        },
+        "K": {
+            "distance": 6,
+            "time": 5
+        },
+        "C": {
+            "distance": 10,
+            "time": 12
+        }
+    },
+    "I": {
+        "F": {
+            "distance": 8,
+            "time": 7
+        },
+        "H": {
+            "distance": 2,
+            "time": 3
+        },
+        "L": {
+            "distance": 4,
+            "time": 3
+        },
+        "M": {
+            "distance": 9,
+            "time": 8
+        }
+    },
+    "J": {
+        "G": {
+            "distance": 7,
+            "time": 6
+        },
+        "K": {
+            "distance": 1,
+            "time": 1
+        },
+        "N": {
+            "distance": 8,
+            "time": 9
+        }
+    },
+    "K": {
+        "H": {
+            "distance": 6,
+            "time": 5
+        },
+        "J": {
+            "distance": 1,
+            "time": 1
+        },
+        "L": {
+            "distance": 3,
+            "time": 2
+        },
+        "N": {
+            "distance": 5,
+            "time": 4
+        },
+        "E": {
+            "distance": 8,
+            "time": 7
+        }
+    },
+    "L": {
+        "I": {
+            "distance": 4,
+            "time": 3
+        },
+        "K": {
+            "distance": 3,
+            "time": 2
+        },
+        "M": {
+            "distance": 2,
+            "time": 3
+        },
+        "O": {
+            "distance": 7,
+            "time": 8
+        }
+    },
+    "M": {
+        "I": {
+            "distance": 9,
+            "time": 8
+        },
+        "L": {
+            "distance": 2,
+            "time": 3
+        },
+        "O": {
+            "distance": 3,
+            "time": 2
+        }
+    },
+    "N": {
+        "J": {
+            "distance": 8,
+            "time": 9
+        },
+        "K": {
+            "distance": 5,
+            "time": 4
+        },
+        "O": {
+            "distance": 4,
+            "time": 3
+        },
+        "G": {
+            "distance": 6,
+            "time": 5
+        }
+    },
+    "O": {
+        "L": {
+            "distance": 7,
+            "time": 8
+        },
+        "M": {
+            "distance": 3,
+            "time": 2
+        },
+        "N": {
+            "distance": 4,
+            "time": 3
+        }
+    }
+}
